@@ -1,2 +1,4 @@
 # hello-world
-learn github
+
+Hi friends!
+I am new here,and want to learn python
